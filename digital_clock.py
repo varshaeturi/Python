@@ -1,8 +1,5 @@
-#creating digital clock in python
+#creating digital clock in python tkinter module 
 #tkinter is a python module used to create GUI applications 
-#tkinter provides a GUI interface -
-#the way you create a GUL application using python is by using the tkinter module 
-#tk is an open source toolkit -> widgets -> menus, buttons, windows, text field 
 from tkinter import * 
 
 # root = Tk() #TK constructor method, it will create a new top level widget 
